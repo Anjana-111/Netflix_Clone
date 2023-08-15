@@ -1,6 +1,6 @@
 # Netflix_Clone
 This is Creating of Netflix clone Using HTML, CSS
-We create a Complete Netflix clone to knowing about the working process of the online platform developed using Codng. 
+We create a Complete Netflix clone to know about the working process of the online platform developed using Coding. 
 Also, we can add movie names, cast actors, a description of the movie, etc.
 
 The personalized recommendations feature further enhances the user experience by suggesting content based on user preferences. 
